@@ -19,3 +19,6 @@ hr {
     height: 200px; margin: 9px; 
     border-radius: 25px;
 }
+.large {
+    width: 100%;
+}
